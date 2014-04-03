@@ -18,6 +18,8 @@ CONFIG += thread
 # Dependency library locations can be customized with:
 #    BOOST_INCLUDE_PATH, BOOST_LIB_PATH, BDB_INCLUDE_PATH,
 #    BDB_LIB_PATH, OPENSSL_INCLUDE_PATH and OPENSSL_LIB_PATH respectively
+#    ZXING_INCLUDE_PATH=/home/claire/MyProjects/ZebraCrossing/src/libsrc
+#    ZXING_LIB_PATH=/home/claire/MyProjects/ZebraCrossing/build
 
 OBJECTS_DIR = build
 MOC_DIR = build
